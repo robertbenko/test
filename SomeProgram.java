@@ -6,7 +6,7 @@ public class SomeProgram {
 		
 	}
 	
-	public void manageTheSatellite() {
+	public void manageTheRockets() {
     
 	}
 	
