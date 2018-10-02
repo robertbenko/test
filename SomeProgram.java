@@ -6,4 +6,8 @@ public class SomeProgram {
 		
 	}
 	
+	public void manageTheSatellite() {
+    
+	}
+	
 }
